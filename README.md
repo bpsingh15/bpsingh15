@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **building my own NHL dashboard**
 
 - 🌱 I’m currently learning **how to design and build AI agents**
+  
+- 👨‍💻 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

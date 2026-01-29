@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to design and build AI agents**
   
-- 👨‍💻 I’m currently on a **30-days, 30-projects challenge (Day 2 Complete)**
+- 👨‍💻 I’m currently on a **30-days, 30-projects challenge (Day 3 Complete)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

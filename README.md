@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brij-Paul Singh</h1>
-<h3 align="center">A passionate frontend developer from Montreal, Quebec</h3>
+<h3 align="center">A passionate software developer from Montreal, Quebec</h3>
 
 - 🔭 I’m currently working on **building my own NHL dashboard**
 

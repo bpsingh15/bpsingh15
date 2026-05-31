@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brij-Paul Singh</h1>
 <h3 align="center">A passionate software developer from Montreal, Quebec</h3>
 
-- 🔭 I’m currently working on **building my own NHL dashboard**
+- 🔭 I'm currently working on **building a Cluely-style AI agent for live sports**
 
-- 🌱 I’m currently learning **how to design and build AI agents**
+- 🌱 I'm currently learning **how to design and build AI agents**
   
-- 👨‍💻 I’m currently on a **30-days, 30-projects challenge (Day 17 Complete)**
+- 👨‍💻 Open to: **Fall 2026 internship opportunities in software engineering or ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
